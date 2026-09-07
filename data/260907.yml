@@ -5,13 +5,13 @@ about:
   head: fc2b153
   archived: false
   latestVersion: "0.45.3"
-  collectedAt: 2026-09-07T05:53:44Z
+  collectedAt: 2026-09-07T18:33:09Z
 timeline:
   created: 2022-07-01
   lastCommit: 2026-09-04
   lastRelease: 2026-08-31
 popularity:
-  star: 15775
+  star: 15781
   watcher: 45
   fork: 439
   release: 183
@@ -83,7 +83,7 @@ total:
   commit: 4347
 ---
 path: /home/runner/.x-repo/github.com/ast-grep/ast-grep
-collectedAt: 2026-09-07T05:53:47Z
+collectedAt: 2026-09-07T18:33:11Z
 loc:
   Rust:
     code: 38227
@@ -139,7 +139,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:53:48+00:00
+  collectedAt: 2026-09-07T18:33:11+00:00
   platform:
     darwin/arm64:
       name:  app-aarch64-apple-darwin.zip
