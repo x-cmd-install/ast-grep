@@ -7,7 +7,7 @@
 - **Latest release**: `0.45.3` (2026-08-31)
 - **Last commit**: 2026-09-04
 - **License**: MIT
-- **Stars**: 15799 · **Forks**: 440 · **Open issues**: 748 · **Contributors**: 91
+- **Stars**: 15806 · **Forks**: 441 · **Open issues**: 748 · **Contributors**: 91
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/ast-grep> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T12:19:24Z._
+_Last regenerated: 2026-09-09T05:57:27Z._
