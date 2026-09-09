@@ -7,7 +7,7 @@ about:
   latestVersion: "0.45.3"
   latestRelease: "0.45.3"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:57:21Z
+  collectedAt: 2026-09-09T20:36:28Z
 timeline:
   created: 2022-07-01
   lastCommit: 2026-09-04
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-08-31
   lastPrerelease: 
 popularity:
-  star: 15806
+  star: 15826
   watcher: 45
-  fork: 441
+  fork: 442
   release: 183
   contributor: 91
-  pullRequest: 2021
+  pullRequest: 2022
   issue: 748
 language:
   Rust: 1249878
@@ -34,7 +34,7 @@ recent:
     since: 2026-08-10
     release: 2
     mergedPR: 17
-    openPR: 9
+    openPR: 10
     closedIssue: 5
     openIssue: 2
     commit: 37
@@ -42,7 +42,7 @@ recent:
     since: 2026-07-11
     release: 4
     mergedPR: 55
-    openPR: 9
+    openPR: 10
     closedIssue: 22
     openIssue: 5
     commit: 92
@@ -50,7 +50,7 @@ recent:
     since: 2026-06-11
     release: 6
     mergedPR: 123
-    openPR: 9
+    openPR: 10
     closedIssue: 32
     openIssue: 7
     commit: 162
@@ -58,7 +58,7 @@ recent:
     since: 2026-03-13
     release: 11
     mergedPR: 242
-    openPR: 10
+    openPR: 11
     closedIssue: 54
     openIssue: 10
     commit: 340
@@ -66,7 +66,7 @@ recent:
     since: 2025-09-14
     release: 22
     mergedPR: 450
-    openPR: 11
+    openPR: 12
     closedIssue: 102
     openIssue: 12
     commit: 667
@@ -74,20 +74,20 @@ recent:
     since: 2024-09-19
     release: 62
     mergedPR: 929
-    openPR: 11
+    openPR: 12
     closedIssue: 264
     openIssue: 21
     commit: 1682
 total:
   release: 183
   mergedPR: 1750
-  openPR: 11
+  openPR: 12
   closedIssue: 708
   openIssue: 40
   commit: 4347
 ---
 path: /home/runner/.x-repo/github.com/ast-grep/ast-grep
-collectedAt: 2026-09-09T05:57:23Z
+collectedAt: 2026-09-09T20:36:30Z
 loc:
   Rust:
     code: 38227
