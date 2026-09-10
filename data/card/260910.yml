@@ -7,7 +7,7 @@ about:
   latestVersion: "0.45.3"
   latestRelease: "0.45.3"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T18:07:03Z
+  collectedAt: 2026-09-10T21:41:19Z
 timeline:
   created: 2022-07-01
   lastCommit: 2026-09-04
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-31
   lastPrerelease: 
 popularity:
-  star: 15836
+  star: 15838
   watcher: 45
   fork: 445
   release: 183
@@ -87,7 +87,7 @@ total:
   commit: 4347
 ---
 path: /home/runner/.x-repo/github.com/ast-grep/ast-grep
-collectedAt: 2026-09-10T18:07:06Z
+collectedAt: 2026-09-10T21:41:22Z
 loc:
   Rust:
     code: 38227

@@ -1,0 +1,672 @@
+- repo: macports
+  srcname: devel/ast-grep
+  binname: ast-grep
+  visiblename: ast-grep
+  version: 0.45.3
+  origversion: null
+  status: newest
+  summary: A CLI tool for code structural search, lint and rewriting.
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - MIT
+  categories:
+    - devel
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: ast-grep
+  binname: python-ast-grep
+  visiblename: python-ast-grep
+  version: 0.44.1
+  origversion: 0.44.1-1
+  status: outdated
+  summary: CLI tool for code structural search, lint and rewriting
+  licenses:
+    - MIT
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: ast-grep
+  binname: ast-grep
+  visiblename: ast-grep
+  version: 0.44.1
+  origversion: 0.44.1-1
+  status: outdated
+  summary: CLI tool for code structural search, lint and rewriting
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
+  srcname: ast-grep
+  visiblename: ast-grep
+  version: 0.22.3
+  origversion: null
+  status: outdated
+  summary: A fast and polyglot tool for code searching, linting, rewriting at large scale
+  maintainers:
+    - chris@cdom.io
+    - lord-valen@github
+    - christina@cafkafk.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: ast-grep
+  visiblename: ast-grep
+  version: 0.28.1
+  origversion: null
+  status: outdated
+  summary: Fast and polyglot tool for code searching, linting, rewriting at large scale
+  maintainers:
+    - chris@cdom.io
+    - lord-valen@github
+    - christina@cafkafk.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: ast-grep
+  visiblename: ast-grep
+  version: 0.37.0
+  origversion: null
+  status: outdated
+  summary: Fast and polyglot tool for code searching, linting, rewriting at large scale
+  maintainers:
+    - xiaoxiangmoe@gmail.com
+    - chris@cdom.io
+    - lord-valen@github
+    - christina@cafkafk.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: ast-grep
+  visiblename: ast-grep
+  version: 0.40.0
+  origversion: null
+  status: outdated
+  summary: Fast and polyglot tool for code searching, linting, rewriting at large scale
+  maintainers:
+    - xiaoxiangmoe@gmail.com
+    - chmont@protonmail.com
+    - lord-valen@github
+    - christina@cafkafk.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: ast-grep
+  visiblename: ast-grep
+  version: 0.42.1
+  origversion: null
+  status: outdated
+  summary: Fast and polyglot tool for code searching, linting, rewriting at large scale
+  maintainers:
+    - xiaoxiangmoe@gmail.com
+    - chmont@protonmail.com
+    - lord-valen@github
+    - christina@cafkafk.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: ast-grep
+  visiblename: ast-grep
+  version: 0.45.1
+  origversion: null
+  status: outdated
+  summary: Fast and polyglot tool for code searching, linting, rewriting at large scale
+  maintainers:
+    - xiaoxiangmoe@gmail.com
+    - chmont@protonmail.com
+    - lord-valen@github
+    - christina@cafkafk.com
+  licenses:
+    - MIT
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: ast-grep
+  binnames:
+    - ast-grep
+    - ast-grep-debuginfo
+    - ast-grep-debugsource
+  visiblename: ast-grep
+  version: 0.45.3
+  origversion: 0.45.3-1.1
+  status: newest
+  summary: A CLI tool for code structural search, lint and rewriting
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: parabola
+  subrepo: extra
+  srcname: ast-grep
+  binname: python-ast-grep
+  visiblename: python-ast-grep
+  version: 0.44.1
+  origversion: 0.44.1-1
+  status: outdated
+  summary: CLI tool for code structural search, lint and rewriting
+  licenses:
+    - MIT
+- repo: parabola
+  subrepo: extra
+  srcname: ast-grep
+  binname: ast-grep
+  visiblename: ast-grep
+  version: 0.44.1
+  origversion: 0.44.1-1
+  status: outdated
+  summary: CLI tool for code structural search, lint and rewriting
+  licenses:
+    - MIT
+- repo: pkgsrc_2026_1
+  srcname: devel/ast-grep
+  binname: ast-grep
+  visiblename: devel/ast-grep
+  version: 0.42.0
+  origversion: null
+  status: outdated
+  summary: CLI tool for code structural search, lint, and rewriting
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - devel
+- repo: pkgsrc_2026_2
+  srcname: devel/ast-grep
+  binname: ast-grep
+  visiblename: devel/ast-grep
+  version: 0.43.0
+  origversion: null
+  status: outdated
+  summary: CLI tool for code structural search, lint, and rewriting
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - devel
+- repo: pkgsrc_current
+  srcname: devel/ast-grep
+  binname: ast-grep
+  visiblename: devel/ast-grep
+  version: 0.45.3
+  origversion: null
+  status: newest
+  summary: CLI tool for code structural search, lint, and rewriting
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - devel
+- repo: pld
+  srcname: ast-grep
+  visiblename: ast-grep
+  version: 0.42.3
+  origversion: 0.42.3-1
+  status: outdated
+- repo: scoop
+  subrepo: main
+  binname: ast-grep
+  visiblename: ast-grep
+  version: 0.45.3
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
+- repo: spack
+  srcname: ast-grep
+  visiblename: ast-grep
+  version: main
+  origversion: null
+  status: rolling
+  maintainers:
+    - mcmehrtens@spack
+  licenses:
+    - MIT
+  categories:
+    - detectable
+- repo: spack
+  srcname: ast-grep
+  visiblename: ast-grep
+  version: 0.45.0
+  origversion: null
+  status: outdated
+  maintainers:
+    - mcmehrtens@spack
+  licenses:
+    - MIT
+  categories:
+    - detectable
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: ast-grep
+  binname: ast-grep
+  visiblename: ast-grep
+  version: 0.44.1
+  origversion: 0.44.1_1
+  status: outdated
+  summary: Fast and polyglot tool for code searching, linting, and rewriting
+  maintainers:
+    - pangolin@vivaldi.net
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: ast-grep
+  binname: ast-grep
+  visiblename: ast-grep
+  version: 0.44.1
+  origversion: 0.44.1-1
+  status: outdated
+  summary: CLI tool for code structural search, lint and rewriting
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: ast-grep
+  binname: ast-grep
+  visiblename: ast-grep
+  version: 0.44.1
+  origversion: 0.44.1-1
+  status: outdated
+  summary: CLI tool for code structural search, lint and rewriting
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: ast-grep
+  binname: python-ast-grep
+  visiblename: python-ast-grep
+  version: 0.44.1
+  origversion: 0.44.1-1
+  status: outdated
+  summary: CLI tool for code structural search, lint and rewriting
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: ast-grep
+  binname: python-ast-grep
+  visiblename: python-ast-grep
+  version: 0.44.1
+  origversion: 0.44.1-1
+  status: outdated
+  summary: CLI tool for code structural search, lint and rewriting
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: ast-grep
+  binname: ast-grep
+  visiblename: ast-grep
+  version: 0.28.1
+  origversion: 0.28.1-r0
+  status: outdated
+  summary: A CLI tool for code structural search, lint and rewriting
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: ast-grep
+  binname: ast-grep-bash-completion
+  visiblename: ast-grep-bash-completion
+  version: 0.28.1
+  origversion: 0.28.1-r0
+  status: outdated
+  summary: Bash completions for ast-grep
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: ast-grep
+  binname: ast-grep-fish-completion
+  visiblename: ast-grep-fish-completion
+  version: 0.28.1
+  origversion: 0.28.1-r0
+  status: outdated
+  summary: Fish completions for ast-grep
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: ast-grep
+  binname: ast-grep-zsh-completion
+  visiblename: ast-grep-zsh-completion
+  version: 0.28.1
+  origversion: 0.28.1-r0
+  status: outdated
+  summary: Zsh completions for ast-grep
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: ast-grep
+  binname: ast-grep
+  visiblename: ast-grep
+  version: 0.28.1
+  origversion: 0.28.1-r0
+  status: outdated
+  summary: A CLI tool for code structural search, lint and rewriting
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: ast-grep
+  binname: ast-grep-bash-completion
+  visiblename: ast-grep-bash-completion
+  version: 0.28.1
+  origversion: 0.28.1-r0
+  status: outdated
+  summary: Bash completions for ast-grep
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: ast-grep
+  binname: ast-grep-fish-completion
+  visiblename: ast-grep-fish-completion
+  version: 0.28.1
+  origversion: 0.28.1-r0
+  status: outdated
+  summary: Fish completions for ast-grep
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: ast-grep
+  binname: ast-grep-zsh-completion
+  visiblename: ast-grep-zsh-completion
+  version: 0.28.1
+  origversion: 0.28.1-r0
+  status: outdated
+  summary: Zsh completions for ast-grep
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: ast-grep
+  binname: ast-grep
+  visiblename: ast-grep
+  version: 0.28.1
+  origversion: 0.28.1-r0
+  status: outdated
+  summary: A CLI tool for code structural search, lint and rewriting
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: ast-grep
+  binname: ast-grep-bash-completion
+  visiblename: ast-grep-bash-completion
+  version: 0.28.1
+  origversion: 0.28.1-r0
+  status: outdated
+  summary: Bash completions for ast-grep
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: ast-grep
+  binname: ast-grep-fish-completion
+  visiblename: ast-grep-fish-completion
+  version: 0.28.1
+  origversion: 0.28.1-r0
+  status: outdated
+  summary: Fish completions for ast-grep
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: ast-grep
+  binname: ast-grep-zsh-completion
+  visiblename: ast-grep-zsh-completion
+  version: 0.28.1
+  origversion: 0.28.1-r0
+  status: outdated
+  summary: Zsh completions for ast-grep
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: ast-grep
+  binname: ast-grep
+  visiblename: ast-grep
+  version: 0.28.1
+  origversion: 0.28.1-r0
+  status: outdated
+  summary: A CLI tool for code structural search, lint and rewriting
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: ast-grep
+  binname: ast-grep-bash-completion
+  visiblename: ast-grep-bash-completion
+  version: 0.28.1
+  origversion: 0.28.1-r0
+  status: outdated
+  summary: Bash completions for ast-grep
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: ast-grep
+  binname: ast-grep-fish-completion
+  visiblename: ast-grep-fish-completion
+  version: 0.28.1
+  origversion: 0.28.1-r0
+  status: outdated
+  summary: Fish completions for ast-grep
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: ast-grep
+  binname: ast-grep-zsh-completion
+  visiblename: ast-grep-zsh-completion
+  version: 0.28.1
+  origversion: 0.28.1-r0
+  status: outdated
+  summary: Zsh completions for ast-grep
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: ast-grep
+  binname: ast-grep
+  visiblename: ast-grep
+  version: 0.28.1
+  origversion: 0.28.1-r0
+  status: outdated
+  summary: A CLI tool for code structural search, lint and rewriting
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: ast-grep
+  binname: ast-grep-bash-completion
+  visiblename: ast-grep-bash-completion
+  version: 0.28.1
+  origversion: 0.28.1-r0
+  status: outdated
+  summary: Bash completions for ast-grep
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: ast-grep
+  binname: ast-grep-fish-completion
+  visiblename: ast-grep-fish-completion
+  version: 0.28.1
+  origversion: 0.28.1-r0
+  status: outdated
+  summary: Fish completions for ast-grep
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: ast-grep
+  binname: ast-grep-zsh-completion
+  visiblename: ast-grep-zsh-completion
+  version: 0.28.1
+  origversion: 0.28.1-r0
+  status: outdated
+  summary: Zsh completions for ast-grep
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alt_p11
+  srcname: ast-grep
+  binnames:
+    - ast-grep
+    - ast-grep-debuginfo
+  visiblename: ast-grep
+  version: 0.45.1
+  origversion: 0.45.1-alt1
+  status: outdated
+  summary: A CLI tool for code structural search, lint and rewriting
+  maintainers:
+    - sirius@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - Development/Tools
+- repo: altsisyphus
+  srcname: ast-grep
+  binnames:
+    - ast-grep
+    - ast-grep-debuginfo
+    - python3-module-ast-grep-py
+    - python3-module-ast-grep-py-debuginfo
+  visiblename: ast-grep
+  version: 0.45.1
+  origversion: 0.45.1-alt2
+  status: outdated
+  summary: A CLI tool for code structural search, lint and rewriting
+  maintainers:
+    - ancieg@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - Development/Tools
+- repo: aosc
+  srcname: app-devel/ast-grep
+  binname: ast-grep
+  visiblename: ast-grep
+  version: 0.39.6
+  origversion: null
+  status: outdated
+  summary: A command-line tool for code structure search, lint, and rewriting
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - utils
+- repo: arch
+  subrepo: extra
+  srcname: ast-grep
+  binname: python-ast-grep
+  visiblename: python-ast-grep
+  version: 0.44.1
+  origversion: 0.44.1-1
+  status: outdated
+  summary: CLI tool for code structural search, lint and rewriting
+  licenses:
+    - MIT
+- repo: arch
+  subrepo: extra
+  srcname: ast-grep
+  binname: ast-grep
+  visiblename: ast-grep
+  version: 0.44.1
+  origversion: 0.44.1-1
+  status: outdated
+  summary: CLI tool for code structural search, lint and rewriting
+  licenses:
+    - MIT
+- repo: aur
+  srcname: ast-grep-bin
+  binname: ast-grep-bin
+  visiblename: ast-grep-bin
+  version: 0.45.3
+  origversion: 0.45.3-1
+  status: newest
+  summary: A fast and easy tool for code searching, linting, rewriting at large scale
+  maintainers:
+    - asukaminato@aur
+    - gplane@aur
+    - barrow@aur
+  licenses:
+    - MIT
+- repo: baulk
+  srcname: ast-grep
+  binname: ast-grep
+  visiblename: ast-grep
+  version: 0.45.3
+  origversion: null
+  status: newest
+  summary: A fast and polyglot tool for code searching, linting, rewriting at large scale.
+- repo: freebsd
+  srcname: textproc/ast-grep
+  binname: ast-grep
+  visiblename: textproc/ast-grep
+  version: 0.45.3
+  origversion: 0.45.3_1
+  status: newest
+  summary: CLI tool for code structural search, lint and rewriting
+  maintainers:
+    - tagattie@freebsd.org
+  categories:
+    - textproc
+- repo: gnuguix
+  srcname: ast-grep
+  binname: ast-grep
+  visiblename: ast-grep
+  version: 0.42.1
+  origversion: null
+  status: outdated
+  summary: CLI tool for code structural search, lint, and rewriting
+- repo: homebrew
+  srcname: ast-grep
+  visiblename: ast-grep
+  version: 0.45.3
+  origversion: null
+  status: newest
+  summary: Code searching, linting, rewriting
+- repo: homebrew
+  srcname: ast-grep
+  visiblename: ast-grep
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Code searching, linting, rewriting
