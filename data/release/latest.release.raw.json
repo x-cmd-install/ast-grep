@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 7984727,
       "digest": "sha256:6d2279dea5bea2ad79c66ea93f5fe54ba926e398a8a26de76c56db68fe59eac6",
-      "download_count": 2298,
+      "download_count": 2361,
       "created_at": "2026-08-31T02:25:38Z",
       "updated_at": "2026-08-31T02:25:39Z",
       "browser_download_url": "https://github.com/ast-grep/ast-grep/releases/download/0.45.3/app-aarch64-apple-darwin.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 14166958,
       "digest": "sha256:5da748848c4cad2a1e7f41e27b58871714dd2c0908632f9874cc2833b92a21ca",
-      "download_count": 118,
+      "download_count": 124,
       "created_at": "2026-08-31T02:29:05Z",
       "updated_at": "2026-08-31T02:29:06Z",
       "browser_download_url": "https://github.com/ast-grep/ast-grep/releases/download/0.45.3/app-aarch64-pc-windows-msvc.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 7870318,
       "digest": "sha256:b39cfbc58da4b869a88b8a4bc57bd5deb0d24541e704cf7c257da7b53ec81c8f",
-      "download_count": 17583,
+      "download_count": 17982,
       "created_at": "2026-08-31T02:26:55Z",
       "updated_at": "2026-08-31T02:26:56Z",
       "browser_download_url": "https://github.com/ast-grep/ast-grep/releases/download/0.45.3/app-aarch64-unknown-linux-gnu.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 14021638,
       "digest": "sha256:9c056ad0a95bad2834eeab4997c2583d1ba6b1b709cb85d3068ca4595a362147",
-      "download_count": 33,
+      "download_count": 36,
       "created_at": "2026-08-31T02:28:19Z",
       "updated_at": "2026-08-31T02:28:21Z",
       "browser_download_url": "https://github.com/ast-grep/ast-grep/releases/download/0.45.3/app-i686-pc-windows-msvc.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 7998510,
       "digest": "sha256:b2ffd26f42810340326a9e8a084bdc3647a8795c1a3f21fc06bd7bef3c7c5b2c",
-      "download_count": 231,
+      "download_count": 241,
       "created_at": "2026-08-31T02:26:53Z",
       "updated_at": "2026-08-31T02:26:54Z",
       "browser_download_url": "https://github.com/ast-grep/ast-grep/releases/download/0.45.3/app-x86_64-apple-darwin.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 14771046,
       "digest": "sha256:3751b7d6be7fd39a80df1180ffe7e053903dcf92d3190e5a8336ff1746af9059",
-      "download_count": 1875,
+      "download_count": 1912,
       "created_at": "2026-08-31T02:28:02Z",
       "updated_at": "2026-08-31T02:28:03Z",
       "browser_download_url": "https://github.com/ast-grep/ast-grep/releases/download/0.45.3/app-x86_64-pc-windows-msvc.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 8126910,
       "digest": "sha256:f8ac830881339d1edee6b2652f54798c0f4da5a827f2db38a08ee31117783ce8",
-      "download_count": 38497,
+      "download_count": 40048,
       "created_at": "2026-08-31T02:25:59Z",
       "updated_at": "2026-08-31T02:26:00Z",
       "browser_download_url": "https://github.com/ast-grep/ast-grep/releases/download/0.45.3/app-x86_64-unknown-linux-gnu.zip"
