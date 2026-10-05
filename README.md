@@ -14,13 +14,13 @@ x install ast-grep
 
 ## Code insight
 
-Total: **79,522** lines of code across **242** files in the top 5 languages.
+Total: **79,964** lines of code across **242** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 38,566 | 1,158 | 3,613 | 158 |
+| Rust | 38,977 | 1,160 | 3,646 | 158 |
 | Json | 34,043 | 0 | 0 | 51 |
-| Yaml | 3,532 | 0 | 0 | 14 |
+| Yaml | 3,561 | 0 | 0 | 14 |
 | JavaScript | 1,178 | 40 | 84 | 5 |
 | TypeScript | 1,092 | 271 | 112 | 14 |
 
@@ -33,27 +33,27 @@ Total: **79,522** lines of code across **242** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.45.3` (2026-08-31)
-- **Last commit**: 2026-10-03
+- **Last commit**: 2026-10-05
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 16,115 · **Forks**: 466 · **Open issues**: 760 · **Contributors**: 93
+- **Stars**: 16,120 · **Forks**: 467 · **Open issues**: 760 · **Contributors**: 93
 
 ## Totals (cumulative)
 
-- **Releases**: 183 · **Merged PRs**: 1766 · **Open PRs**: 23 · **Closed issues**: 712 · **Open issues**: 48 · **Commits**: 4363
+- **Releases**: 183 · **Merged PRs**: 1782 · **Open PRs**: 16 · **Closed issues**: 713 · **Open issues**: 47 · **Commits**: 4379
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 0 | 15 | 19 | 3 | 10 | 19 |
-| last60d | 2026-08-05 | 3 | 40 | 21 | 9 | 10 | 63 |
-| 90d | 2026-07-06 | 4 | 74 | 21 | 27 | 14 | 112 |
-| last180d | 2026-04-07 | 9 | 228 | 22 | 51 | 18 | 322 |
-| 360d | 2025-10-09 | 21 | 438 | 23 | 101 | 20 | 654 |
-| last720d | 2024-10-14 | 59 | 919 | 23 | 260 | 28 | 1637 |
+| 30d | 2026-09-05 | 0 | 28 | 12 | 4 | 9 | 32 |
+| last60d | 2026-08-06 | 3 | 56 | 14 | 10 | 9 | 69 |
+| 90d | 2026-07-07 | 4 | 89 | 14 | 28 | 13 | 124 |
+| last180d | 2026-04-08 | 9 | 241 | 15 | 52 | 17 | 329 |
+| 360d | 2025-10-10 | 21 | 453 | 16 | 102 | 19 | 655 |
+| last720d | 2024-10-15 | 59 | 933 | 16 | 261 | 27 | 1653 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for ast-grep lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T06:49:06Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T06:45:18Z._
