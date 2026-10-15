@@ -33,27 +33,27 @@ Total: **80,272** lines of code across **242** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.50.0` (2026-10-09)
-- **Last commit**: 2026-10-13
+- **Last commit**: 2026-10-14
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 16,234 · **Forks**: 474 · **Open issues**: 766 · **Contributors**: 94
+- **Stars**: 16,242 · **Forks**: 476 · **Open issues**: 767 · **Contributors**: 95
 
 ## Totals (cumulative)
 
-- **Releases**: 184 · **Merged PRs**: 1786 · **Open PRs**: 15 · **Closed issues**: 722 · **Open issues**: 44 · **Commits**: 4386
+- **Releases**: 184 · **Merged PRs**: 1787 · **Open PRs**: 17 · **Closed issues**: 722 · **Open issues**: 45 · **Commits**: 4387
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 1 | 27 | 8 | 12 | 5 | 34 |
-| last60d | 2026-08-15 | 3 | 52 | 13 | 18 | 7 | 68 |
-| 90d | 2026-07-16 | 5 | 86 | 13 | 32 | 9 | 111 |
-| last180d | 2026-04-17 | 10 | 231 | 14 | 61 | 14 | 321 |
-| 360d | 2025-10-19 | 22 | 447 | 15 | 111 | 16 | 660 |
-| last720d | 2024-10-24 | 59 | 924 | 15 | 263 | 24 | 1638 |
+| 30d | 2026-09-15 | 1 | 28 | 10 | 12 | 6 | 35 |
+| last60d | 2026-08-16 | 3 | 53 | 15 | 17 | 8 | 69 |
+| 90d | 2026-07-17 | 5 | 87 | 15 | 31 | 10 | 112 |
+| last180d | 2026-04-18 | 10 | 230 | 16 | 61 | 15 | 322 |
+| 360d | 2025-10-20 | 22 | 448 | 17 | 111 | 17 | 661 |
+| last720d | 2024-10-25 | 59 | 925 | 17 | 261 | 25 | 1635 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for ast-grep lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T06:06:29Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:38:30Z._
