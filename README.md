@@ -38,22 +38,22 @@ Total: **80,452** lines of code across **242** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 16,317 · **Forks**: 482 · **Open issues**: 767 · **Contributors**: 98
+- **Stars**: 16,339 · **Forks**: 482 · **Open issues**: 767 · **Contributors**: 98
 
 ## Totals (cumulative)
 
-- **Releases**: 185 · **Merged PRs**: 1816 · **Open PRs**: 11 · **Closed issues**: 724 · **Open issues**: 43 · **Commits**: 4419
+- **Releases**: 185 · **Merged PRs**: 1816 · **Open PRs**: 12 · **Closed issues**: 724 · **Open issues**: 43 · **Commits**: 4419
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 2 | 43 | 8 | 6 | 4 | 58 |
-| last60d | 2026-08-24 | 3 | 74 | 10 | 17 | 6 | 84 |
-| 90d | 2026-07-25 | 5 | 104 | 10 | 24 | 6 | 132 |
-| last180d | 2026-04-26 | 11 | 252 | 11 | 63 | 13 | 345 |
-| 360d | 2025-10-28 | 22 | 461 | 11 | 110 | 15 | 675 |
-| last720d | 2024-11-02 | 59 | 946 | 11 | 262 | 23 | 1649 |
+| 30d | 2026-09-24 | 2 | 39 | 9 | 5 | 4 | 58 |
+| last60d | 2026-08-25 | 3 | 74 | 11 | 17 | 6 | 84 |
+| 90d | 2026-07-26 | 5 | 102 | 11 | 24 | 6 | 132 |
+| last180d | 2026-04-27 | 11 | 250 | 12 | 63 | 13 | 345 |
+| 360d | 2025-10-29 | 22 | 460 | 12 | 110 | 15 | 675 |
+| last720d | 2024-11-03 | 59 | 946 | 12 | 261 | 22 | 1649 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for ast-grep lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:45:48Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:38:17Z._
