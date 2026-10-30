@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 8626879,
       "digest": "sha256:e18e13c27ed6c4b3ec4de00745b0755dee9dc26c035e226f4dd5d147dca99cc8",
-      "download_count": 4225,
+      "download_count": 4901,
       "created_at": "2026-10-15T15:14:25Z",
       "updated_at": "2026-10-15T15:14:26Z",
       "browser_download_url": "https://github.com/ast-grep/ast-grep/releases/download/0.51.0/app-aarch64-apple-darwin.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 15496895,
       "digest": "sha256:fb6a4c3c6ed350d7e64eae81961bdf6b3f201c6e7c31ace8caccf8ceddff1cac",
-      "download_count": 252,
+      "download_count": 266,
       "created_at": "2026-10-15T15:13:34Z",
       "updated_at": "2026-10-15T15:13:36Z",
       "browser_download_url": "https://github.com/ast-grep/ast-grep/releases/download/0.51.0/app-aarch64-pc-windows-msvc.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 8511534,
       "digest": "sha256:73af0ebe5958acee012754a5b2826a186580ef83333092408a7a01096fc30b8b",
-      "download_count": 7853,
+      "download_count": 8640,
       "created_at": "2026-10-15T15:13:30Z",
       "updated_at": "2026-10-15T15:13:31Z",
       "browser_download_url": "https://github.com/ast-grep/ast-grep/releases/download/0.51.0/app-aarch64-unknown-linux-gnu.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 15410100,
       "digest": "sha256:20ee5bdbe55ec63180a808076a5095ee531f938d61c7b6466368605b61525e0e",
-      "download_count": 200,
+      "download_count": 209,
       "created_at": "2026-10-15T15:15:10Z",
       "updated_at": "2026-10-15T15:15:11Z",
       "browser_download_url": "https://github.com/ast-grep/ast-grep/releases/download/0.51.0/app-i686-pc-windows-msvc.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 8689176,
       "digest": "sha256:8438fe549da59da28518c45bdaab5b851aabafe8fb4f8dc05c261a7649b4eca6",
-      "download_count": 571,
+      "download_count": 596,
       "created_at": "2026-10-15T15:14:37Z",
       "updated_at": "2026-10-15T15:14:37Z",
       "browser_download_url": "https://github.com/ast-grep/ast-grep/releases/download/0.51.0/app-x86_64-apple-darwin.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 16249102,
       "digest": "sha256:1a5b7824c5925ac34257f806488e54860817cefd855fd308d13df7550d068908",
-      "download_count": 4940,
+      "download_count": 5320,
       "created_at": "2026-10-15T15:14:18Z",
       "updated_at": "2026-10-15T15:14:19Z",
       "browser_download_url": "https://github.com/ast-grep/ast-grep/releases/download/0.51.0/app-x86_64-pc-windows-msvc.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 8857052,
       "digest": "sha256:a7eead5552d3a8daad70f5d50d935da44bd0c138e946b5b0a96b1d38169fa639",
-      "download_count": 63237,
+      "download_count": 71501,
       "created_at": "2026-10-15T15:11:52Z",
       "updated_at": "2026-10-15T15:11:53Z",
       "browser_download_url": "https://github.com/ast-grep/ast-grep/releases/download/0.51.0/app-x86_64-unknown-linux-gnu.zip"
@@ -291,5 +291,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/ast-grep/ast-grep/tarball/0.51.0",
   "zipball_url": "https://api.github.com/repos/ast-grep/ast-grep/zipball/0.51.0",
-  "body": "- fix(cli): use `ast-grep` name in project setup hint [`#3001`](https://github.com/ast-grep/ast-grep/pull/3001)\n- fix: replace deprecated serde_yaml with serde-saphyr [`#2999`](https://github.com/ast-grep/ast-grep/pull/2999)\n- fix(deps): update rust crate tree-sitter-haskell to 0.24.0 [`#2988`](https://github.com/ast-grep/ast-grep/pull/2988)\n- fix(cli): preserve files when update-all writes fail [`#2995`](https://github.com/ast-grep/ast-grep/pull/2995)\n- Revise security policy for clarity and updates [`a7d3f69`](https://github.com/ast-grep/ast-grep/commit/a7d3f6935320f9859c3d522d133aabba21ccff4c)\n- fix: update wasm linting [`ea55463`](https://github.com/ast-grep/ast-grep/commit/ea5546303f4aebe86c16a3fada2dae0372bd95c4)"
+  "body": "- fix(cli): use `ast-grep` name in project setup hint [`#3001`](https://github.com/ast-grep/ast-grep/pull/3001)\n- fix: replace deprecated serde_yaml with serde-saphyr [`#2999`](https://github.com/ast-grep/ast-grep/pull/2999)\n- fix(deps): update rust crate tree-sitter-haskell to 0.24.0 [`#2988`](https://github.com/ast-grep/ast-grep/pull/2988)\n- fix(cli): preserve files when update-all writes fail [`#2995`](https://github.com/ast-grep/ast-grep/pull/2995)\n- Revise security policy for clarity and updates [`a7d3f69`](https://github.com/ast-grep/ast-grep/commit/a7d3f6935320f9859c3d522d133aabba21ccff4c)\n- fix: update wasm linting [`ea55463`](https://github.com/ast-grep/ast-grep/commit/ea5546303f4aebe86c16a3fada2dae0372bd95c4)",
+  "reactions": {
+    "url": "https://api.github.com/repos/ast-grep/ast-grep/releases/413954451/reactions",
+    "total_count": 1,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
