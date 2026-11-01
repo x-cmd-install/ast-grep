@@ -33,27 +33,27 @@ Total: **80,682** lines of code across **242** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.51.0` (2026-10-15)
-- **Last commit**: 2026-10-29
+- **Last commit**: 2026-10-31
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 16,399 · **Forks**: 488 · **Open issues**: 768 · **Contributors**: 101
+- **Stars**: 16,404 · **Forks**: 487 · **Open issues**: 768 · **Contributors**: 101
 
 ## Totals (cumulative)
 
-- **Releases**: 185 · **Merged PRs**: 1832 · **Open PRs**: 10 · **Closed issues**: 726 · **Open issues**: 42 · **Commits**: 4438
+- **Releases**: 185 · **Merged PRs**: 1834 · **Open PRs**: 8 · **Closed issues**: 726 · **Open issues**: 42 · **Commits**: 4440
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 2 | 50 | 9 | 5 | 3 | 75 |
-| last60d | 2026-09-01 | 2 | 82 | 9 | 16 | 5 | 93 |
-| 90d | 2026-08-02 | 5 | 109 | 9 | 24 | 5 | 139 |
-| last180d | 2026-05-04 | 11 | 261 | 10 | 64 | 11 | 359 |
-| 360d | 2025-11-05 | 22 | 466 | 10 | 110 | 14 | 676 |
-| last720d | 2024-11-10 | 59 | 954 | 10 | 255 | 21 | 1650 |
+| 30d | 2026-10-02 | 2 | 52 | 7 | 5 | 3 | 58 |
+| last60d | 2026-09-02 | 2 | 82 | 7 | 16 | 5 | 92 |
+| 90d | 2026-08-03 | 5 | 109 | 7 | 22 | 5 | 134 |
+| last180d | 2026-05-05 | 11 | 262 | 8 | 64 | 10 | 351 |
+| 360d | 2025-11-06 | 22 | 468 | 8 | 110 | 14 | 665 |
+| last720d | 2024-11-11 | 59 | 953 | 8 | 253 | 21 | 1650 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for ast-grep lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:47:48Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T07:15:27Z._
