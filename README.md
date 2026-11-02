@@ -14,12 +14,12 @@ x install ast-grep
 
 ## Code insight
 
-Total: **80,682** lines of code across **242** files in the top 5 languages.
+Total: **80,930** lines of code across **242** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 39,651 | 1,176 | 3,697 | 158 |
-| Json | 34,050 | 0 | 0 | 51 |
+| Rust | 39,870 | 1,178 | 3,728 | 158 |
+| Json | 34,079 | 0 | 0 | 51 |
 | Yaml | 3,597 | 0 | 0 | 14 |
 | JavaScript | 1,178 | 40 | 84 | 5 |
 | TypeScript | 1,092 | 271 | 112 | 14 |
@@ -32,44 +32,38 @@ Total: **80,682** lines of code across **242** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `0.51.0` (2026-10-15)
-- **Last commit**: 2026-10-31
-- **Assets in release**: 7
+- **Latest**: `0.51.1` (2026-11-02)
+- **Last commit**: 2026-11-02
+- **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 16,404 · **Forks**: 487 · **Open issues**: 768 · **Contributors**: 101
+- **Stars**: 16,416 · **Forks**: 488 · **Open issues**: 770 · **Contributors**: 102
 
 ## Totals (cumulative)
 
-- **Releases**: 185 · **Merged PRs**: 1834 · **Open PRs**: 8 · **Closed issues**: 726 · **Open issues**: 42 · **Commits**: 4440
+- **Releases**: 186 · **Merged PRs**: 1840 · **Open PRs**: 5 · **Closed issues**: 731 · **Open issues**: 39 · **Commits**: 4447
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 2 | 52 | 7 | 5 | 3 | 58 |
-| last60d | 2026-09-02 | 2 | 82 | 7 | 16 | 5 | 92 |
-| 90d | 2026-08-03 | 5 | 109 | 7 | 22 | 5 | 134 |
-| last180d | 2026-05-05 | 11 | 262 | 8 | 64 | 10 | 351 |
-| 360d | 2025-11-06 | 22 | 468 | 8 | 110 | 14 | 665 |
-| last720d | 2024-11-11 | 59 | 953 | 8 | 253 | 21 | 1650 |
+| 30d | 2026-10-03 | 3 | 57 | 3 | 8 | 2 | 65 |
+| last60d | 2026-09-03 | 3 | 87 | 4 | 20 | 3 | 99 |
+| 90d | 2026-08-04 | 6 | 114 | 4 | 26 | 3 | 141 |
+| last180d | 2026-05-06 | 12 | 268 | 5 | 68 | 8 | 358 |
+| 360d | 2025-11-07 | 23 | 465 | 5 | 114 | 12 | 672 |
+| last720d | 2024-11-12 | 59 | 959 | 5 | 257 | 19 | 1654 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [app-aarch64-apple-darwin.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.0/app-aarch64-apple-darwin.zip) | 8.2 MiB | `native/darwin/arm64` |
-| [app-aarch64-pc-windows-msvc.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.0/app-aarch64-pc-windows-msvc.zip) | 14.8 MiB | `native/win/arm64` |
-| [app-aarch64-unknown-linux-gnu.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.0/app-aarch64-unknown-linux-gnu.zip) | 8.1 MiB | `native/linux/arm64/glibc` |
-| [app-i686-pc-windows-msvc.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.0/app-i686-pc-windows-msvc.zip) | 14.7 MiB | `native/win/x64` |
-| [app-x86_64-apple-darwin.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.0/app-x86_64-apple-darwin.zip) | 8.3 MiB | `native/darwin/x64` |
-| [app-x86_64-pc-windows-msvc.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.0/app-x86_64-pc-windows-msvc.zip) | 15.5 MiB | `native/win/x64` |
-| [app-x86_64-unknown-linux-gnu.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.0/app-x86_64-unknown-linux-gnu.zip) | 8.4 MiB | `native/linux/x64/glibc` |
+| [app-x86_64-apple-darwin.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.1/app-x86_64-apple-darwin.zip) | 8.4 MiB | `native/darwin/x64` |
 
 ## Distribution status
 
-Reported by **55** distros on [repology.org](https://repology.org/project/ast-grep). **9** are ✅ on the latest upstream release, **44** are ⚠️ on an older version.
+Reported by **51** distros on [repology.org](https://repology.org/project/ast-grep). **10** are ✅ on the latest upstream release, **39** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -89,4 +83,4 @@ Install metadata for ast-grep lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:15:27Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:16:06Z._
