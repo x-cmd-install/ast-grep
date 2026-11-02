@@ -1,14 +1,9 @@
-- repo: manjaro_unstable
-  subrepo: extra
+- repo: pld
   srcname: ast-grep
-  binname: python-ast-grep
-  visiblename: python-ast-grep
-  version: 0.44.1
-  origversion: 0.44.1-1
-  status: outdated
-  summary: CLI tool for code structural search, lint and rewriting
-  licenses:
-    - MIT
+  visiblename: ast-grep
+  version: 0.51.0
+  origversion: 0.51.0-1
+  status: newest
 - repo: alpine_3_21
   subrepo: community
   srcname: ast-grep
@@ -285,17 +280,6 @@
     - MIT
   categories:
     - Development/Tools
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: ast-grep
-  binname: ast-grep
-  visiblename: ast-grep
-  version: 0.44.1
-  origversion: 0.44.1-1
-  status: outdated
-  summary: CLI tool for code structural search, lint and rewriting
-  licenses:
-    - MIT
 - repo: altsisyphus
   srcname: ast-grep
   binnames:
@@ -329,8 +313,8 @@
 - repo: arch
   subrepo: extra
   srcname: ast-grep
-  binname: ast-grep
-  visiblename: ast-grep
+  binname: python-ast-grep
+  visiblename: python-ast-grep
   version: 0.44.1
   origversion: 0.44.1-1
   status: outdated
@@ -340,8 +324,8 @@
 - repo: arch
   subrepo: extra
   srcname: ast-grep
-  binname: python-ast-grep
-  visiblename: python-ast-grep
+  binname: ast-grep
+  visiblename: ast-grep
   version: 0.44.1
   origversion: 0.44.1-1
   status: outdated
@@ -404,6 +388,18 @@
   origversion: null
   status: rolling
   summary: Code searching, linting, rewriting
+- repo: pkgsrc_current
+  srcname: devel/ast-grep
+  binname: ast-grep
+  visiblename: devel/ast-grep
+  version: 0.51.0
+  origversion: null
+  status: newest
+  summary: CLI tool for code structural search, lint, and rewriting
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - devel
 - repo: macports
   srcname: devel/ast-grep
   binname: ast-grep
@@ -418,18 +414,7 @@
     - MIT
   categories:
     - devel
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: ast-grep
-  binname: python-ast-grep
-  visiblename: python-ast-grep
-  version: 0.44.1
-  origversion: 0.44.1-1
-  status: outdated
-  summary: CLI tool for code structural search, lint and rewriting
-  licenses:
-    - MIT
-- repo: manjaro_stable
+- repo: manjaro_unstable
   subrepo: extra
   srcname: ast-grep
   binname: ast-grep
@@ -440,22 +425,11 @@
   summary: CLI tool for code structural search, lint and rewriting
   licenses:
     - MIT
-- repo: manjaro_testing
+- repo: manjaro_unstable
   subrepo: extra
   srcname: ast-grep
   binname: python-ast-grep
   visiblename: python-ast-grep
-  version: 0.44.1
-  origversion: 0.44.1-1
-  status: outdated
-  summary: CLI tool for code structural search, lint and rewriting
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: ast-grep
-  binname: ast-grep
-  visiblename: ast-grep
   version: 0.44.1
   origversion: 0.44.1-1
   status: outdated
@@ -563,8 +537,8 @@
 - repo: parabola
   subrepo: extra
   srcname: ast-grep
-  binname: python-ast-grep
-  visiblename: python-ast-grep
+  binname: ast-grep
+  visiblename: ast-grep
   version: 0.44.1
   origversion: 0.44.1-1
   status: outdated
@@ -574,8 +548,8 @@
 - repo: parabola
   subrepo: extra
   srcname: ast-grep
-  binname: ast-grep
-  visiblename: ast-grep
+  binname: python-ast-grep
+  visiblename: python-ast-grep
   version: 0.44.1
   origversion: 0.44.1-1
   status: outdated
@@ -606,24 +580,6 @@
     - pkgsrc-users@netbsd.org
   categories:
     - devel
-- repo: pkgsrc_current
-  srcname: devel/ast-grep
-  binname: ast-grep
-  visiblename: devel/ast-grep
-  version: 0.51.0
-  origversion: null
-  status: newest
-  summary: CLI tool for code structural search, lint, and rewriting
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - devel
-- repo: pld
-  srcname: ast-grep
-  visiblename: ast-grep
-  version: 0.42.3
-  origversion: 0.42.3-1
-  status: outdated
 - repo: scoop
   subrepo: main
   binname: ast-grep
