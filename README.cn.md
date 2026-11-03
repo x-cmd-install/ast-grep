@@ -34,45 +34,51 @@ x install ast-grep
 
 - **最新版本**: `0.51.1` (2026-11-02)
 - **最近提交**: 2026-11-02
-- **Release 含资产**: 1 个
+- **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 16,416 · **Fork**: 488 · **开放 issue**: 770 · **贡献者**: 102
+- **Star**: 16,424 · **Fork**: 488 · **开放 issue**: 770 · **贡献者**: 102
 
 ## 累计统计
 
-- **发布数**: 186 · **已合并 PR**: 1840 · **开放 PR**: 5 · **已关闭 issue**: 731 · **开放 issue**: 39 · **提交数**: 4447
+- **发布数**: 186 · **已合并 PR**: 1841 · **开放 PR**: 7 · **已关闭 issue**: 731 · **开放 issue**: 39 · **提交数**: 4448
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 3 | 57 | 3 | 8 | 2 | 65 |
-| last60d | 2026-09-03 | 3 | 87 | 4 | 20 | 3 | 99 |
-| 90d | 2026-08-04 | 6 | 114 | 4 | 26 | 3 | 141 |
-| last180d | 2026-05-06 | 12 | 268 | 5 | 68 | 8 | 358 |
-| 360d | 2025-11-07 | 23 | 465 | 5 | 114 | 12 | 672 |
-| last720d | 2024-11-12 | 59 | 959 | 5 | 257 | 19 | 1654 |
+| 30d | 2026-10-04 | 3 | 55 | 5 | 8 | 2 | 66 |
+| last60d | 2026-09-04 | 3 | 88 | 6 | 20 | 3 | 100 |
+| 90d | 2026-08-05 | 6 | 115 | 6 | 26 | 3 | 142 |
+| last180d | 2026-05-07 | 12 | 268 | 7 | 68 | 8 | 359 |
+| 360d | 2025-11-08 | 22 | 466 | 7 | 114 | 12 | 673 |
+| last720d | 2024-11-13 | 59 | 960 | 7 | 256 | 19 | 1655 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
+| [app-aarch64-apple-darwin.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.1/app-aarch64-apple-darwin.zip) | 8.3 MiB | `native/darwin/arm64` |
+| [app-aarch64-pc-windows-msvc.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.1/app-aarch64-pc-windows-msvc.zip) | 14.9 MiB | `native/win/arm64` |
+| [app-aarch64-unknown-linux-gnu.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.1/app-aarch64-unknown-linux-gnu.zip) | 8.2 MiB | `native/linux/arm64/glibc` |
+| [app-i686-pc-windows-msvc.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.1/app-i686-pc-windows-msvc.zip) | 14.9 MiB | `native/win/x64` |
 | [app-x86_64-apple-darwin.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.1/app-x86_64-apple-darwin.zip) | 8.4 MiB | `native/darwin/x64` |
+| [app-x86_64-pc-windows-msvc.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.1/app-x86_64-pc-windows-msvc.zip) | 15.7 MiB | `native/win/x64` |
+| [app-x86_64-unknown-linux-gnu.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.1/app-x86_64-unknown-linux-gnu.zip) | 8.5 MiB | `native/linux/x64/glibc` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/ast-grep) 上共有 **51** 个发行版报告此项目。**10** 个 ✅ 已是最新上游版本，**39** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/ast-grep) 上共有 **51** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**46** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Arch | `0.44.1` | ⚠️ outdated |
-| Homebrew | `0.51.0` | ✅ latest |
-| Nix unstable | `0.51.0` | ✅ latest |
+| Homebrew | `0.51.1` | ✅ latest |
+| Nix unstable | `0.51.0` | ⚠️ outdated |
 | Void | `0.44.1` | ⚠️ outdated |
 | Alpine edge | `0.28.1` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.51.0` | ✅ latest |
+| openSUSE Tumbleweed | `0.51.0` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -83,4 +89,4 @@ ast-grep 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261102.yml` · 2026-11-02T07:16:08Z._
+_数据快照: `data/card/261103.yml` · 2026-11-03T08:03:59Z._
