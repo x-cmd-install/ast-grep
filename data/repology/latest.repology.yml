@@ -1,3 +1,9 @@
+- repo: pld
+  srcname: ast-grep
+  visiblename: ast-grep
+  version: 0.51.0
+  origversion: 0.51.0-1
+  status: outdated
 - repo: alpine_3_21
   subrepo: community
   srcname: ast-grep
@@ -48,20 +54,6 @@
   summary: Zsh completions for ast-grep
   maintainers:
     - jakub@jirutka.cz
-  licenses:
-    - MIT
-- repo: aur
-  srcname: ast-grep-bin
-  binname: ast-grep-bin
-  visiblename: ast-grep-bin
-  version: 0.51.0
-  origversion: 0.51.0-1
-  status: outdated
-  summary: A fast and easy tool for code searching, linting, rewriting at large scale
-  maintainers:
-    - asukaminato@aur
-    - gplane@aur
-    - barrow@aur
   licenses:
     - MIT
 - repo: alpine_3_22
@@ -340,6 +332,20 @@
   summary: CLI tool for code structural search, lint and rewriting
   licenses:
     - MIT
+- repo: aur
+  srcname: ast-grep-bin
+  binname: ast-grep-bin
+  visiblename: ast-grep-bin
+  version: 0.51.0
+  origversion: 0.51.0-1
+  status: outdated
+  summary: A fast and easy tool for code searching, linting, rewriting at large scale
+  maintainers:
+    - asukaminato@aur
+    - gplane@aur
+    - barrow@aur
+  licenses:
+    - MIT
 - repo: baulk
   srcname: ast-grep
   binname: ast-grep
@@ -519,8 +525,8 @@
 - repo: parabola
   subrepo: extra
   srcname: ast-grep
-  binname: python-ast-grep
-  visiblename: python-ast-grep
+  binname: ast-grep
+  visiblename: ast-grep
   version: 0.44.1
   origversion: 0.44.1-1
   status: outdated
@@ -530,8 +536,8 @@
 - repo: parabola
   subrepo: extra
   srcname: ast-grep
-  binname: ast-grep
-  visiblename: ast-grep
+  binname: python-ast-grep
+  visiblename: python-ast-grep
   version: 0.44.1
   origversion: 0.44.1-1
   status: outdated
@@ -566,20 +572,14 @@
   srcname: devel/ast-grep
   binname: ast-grep
   visiblename: devel/ast-grep
-  version: 0.51.0
+  version: 0.51.1
   origversion: null
-  status: outdated
+  status: newest
   summary: CLI tool for code structural search, lint, and rewriting
   maintainers:
     - pkgsrc-users@netbsd.org
   categories:
     - devel
-- repo: pld
-  srcname: ast-grep
-  visiblename: ast-grep
-  version: 0.51.0
-  origversion: 0.51.0-1
-  status: outdated
 - repo: scoop
   subrepo: main
   binname: ast-grep
