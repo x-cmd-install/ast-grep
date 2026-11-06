@@ -1,9 +1,3 @@
-- repo: pld
-  srcname: ast-grep
-  visiblename: ast-grep
-  version: 0.51.0
-  origversion: 0.51.0-1
-  status: outdated
 - repo: alpine_3_21
   subrepo: community
   srcname: ast-grep
@@ -350,9 +344,9 @@
   srcname: ast-grep
   binname: ast-grep
   visiblename: ast-grep
-  version: 0.51.0
+  version: 0.51.1
   origversion: null
-  status: outdated
+  status: newest
   summary: A fast and polyglot tool for code searching, linting, rewriting at large scale.
 - repo: freebsd
   srcname: textproc/ast-grep
@@ -525,8 +519,8 @@
 - repo: parabola
   subrepo: extra
   srcname: ast-grep
-  binname: ast-grep
-  visiblename: ast-grep
+  binname: python-ast-grep
+  visiblename: python-ast-grep
   version: 0.44.1
   origversion: 0.44.1-1
   status: outdated
@@ -536,8 +530,8 @@
 - repo: parabola
   subrepo: extra
   srcname: ast-grep
-  binname: python-ast-grep
-  visiblename: python-ast-grep
+  binname: ast-grep
+  visiblename: ast-grep
   version: 0.44.1
   origversion: 0.44.1-1
   status: outdated
@@ -580,6 +574,12 @@
     - pkgsrc-users@netbsd.org
   categories:
     - devel
+- repo: pld
+  srcname: ast-grep
+  visiblename: ast-grep
+  version: 0.51.0
+  origversion: 0.51.0-1
+  status: outdated
 - repo: scoop
   subrepo: main
   binname: ast-grep
