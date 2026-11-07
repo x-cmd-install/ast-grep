@@ -38,22 +38,22 @@ Total: **81,540** lines of code across **248** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 16,465 · **Forks**: 496 · **Open issues**: 773 · **Contributors**: 103
+- **Stars**: 16,470 · **Forks**: 494 · **Open issues**: 773 · **Contributors**: 103
 
 ## Totals (cumulative)
 
-- **Releases**: 186 · **Merged PRs**: 1849 · **Open PRs**: 7 · **Closed issues**: 734 · **Open issues**: 39 · **Commits**: 4456
+- **Releases**: 186 · **Merged PRs**: 1849 · **Open PRs**: 11 · **Closed issues**: 734 · **Open issues**: 39 · **Commits**: 4456
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 3 | 57 | 5 | 10 | 1 | 74 |
-| last60d | 2026-09-07 | 3 | 93 | 6 | 22 | 3 | 108 |
-| 90d | 2026-08-08 | 5 | 120 | 6 | 29 | 3 | 150 |
-| last180d | 2026-05-10 | 12 | 274 | 7 | 68 | 8 | 367 |
-| 360d | 2025-11-11 | 22 | 469 | 7 | 117 | 12 | 681 |
-| last720d | 2024-11-16 | 59 | 967 | 7 | 259 | 19 | 1663 |
+| 30d | 2026-10-08 | 3 | 57 | 9 | 9 | 1 | 74 |
+| last60d | 2026-09-08 | 3 | 92 | 10 | 22 | 3 | 108 |
+| 90d | 2026-08-09 | 5 | 118 | 10 | 29 | 3 | 150 |
+| last180d | 2026-05-11 | 11 | 269 | 11 | 68 | 7 | 367 |
+| 360d | 2025-11-12 | 22 | 468 | 11 | 115 | 12 | 681 |
+| last720d | 2024-11-17 | 59 | 963 | 11 | 259 | 19 | 1663 |
 
 ## Release assets
 
@@ -69,7 +69,7 @@ Total: **81,540** lines of code across **248** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **51** distros on [repology.org](https://repology.org/project/ast-grep). **5** are ✅ on the latest upstream release, **44** are ⚠️ on an older version.
+Reported by **55** distros on [repology.org](https://repology.org/project/ast-grep). **5** are ✅ on the latest upstream release, **48** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -89,4 +89,4 @@ Install metadata for ast-grep lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:53:23Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:04:51Z._
