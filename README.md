@@ -33,27 +33,27 @@ Total: **81,540** lines of code across **248** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.51.1` (2026-11-02)
-- **Last commit**: 2026-11-06
+- **Last commit**: 2026-11-08
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 16,470 · **Forks**: 494 · **Open issues**: 773 · **Contributors**: 103
+- **Stars**: 16,485 · **Forks**: 496 · **Open issues**: 774 · **Contributors**: 103
 
 ## Totals (cumulative)
 
-- **Releases**: 186 · **Merged PRs**: 1849 · **Open PRs**: 11 · **Closed issues**: 734 · **Open issues**: 39 · **Commits**: 4456
+- **Releases**: 186 · **Merged PRs**: 1850 · **Open PRs**: 12 · **Closed issues**: 735 · **Open issues**: 39 · **Commits**: 4457
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 3 | 57 | 9 | 9 | 1 | 74 |
-| last60d | 2026-09-08 | 3 | 92 | 10 | 22 | 3 | 108 |
-| 90d | 2026-08-09 | 5 | 118 | 10 | 29 | 3 | 150 |
-| last180d | 2026-05-11 | 11 | 269 | 11 | 68 | 7 | 367 |
-| 360d | 2025-11-12 | 22 | 468 | 11 | 115 | 12 | 681 |
-| last720d | 2024-11-17 | 59 | 963 | 11 | 259 | 19 | 1663 |
+| 30d | 2026-10-09 | 3 | 58 | 10 | 9 | 1 | 67 |
+| last60d | 2026-09-09 | 3 | 92 | 11 | 23 | 3 | 105 |
+| 90d | 2026-08-10 | 5 | 117 | 11 | 30 | 3 | 144 |
+| last180d | 2026-05-12 | 11 | 268 | 12 | 67 | 7 | 363 |
+| 360d | 2025-11-13 | 22 | 469 | 12 | 115 | 12 | 663 |
+| last720d | 2024-11-18 | 59 | 964 | 12 | 260 | 19 | 1664 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for ast-grep lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T07:04:51Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T07:09:20Z._
