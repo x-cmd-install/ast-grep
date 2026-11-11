@@ -14,11 +14,11 @@ x install ast-grep
 
 ## 代码洞察
 
-合计: **81,566** 行代码（覆盖前 5 种语言、共 **248** 个文件）。
+合计: **81,641** 行代码（覆盖前 5 种语言、共 **250** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 40,049 | 1,183 | 3,742 | 158 |
+| Rust | 40,124 | 1,183 | 3,781 | 160 |
 | Json | 34,152 | 0 | 0 | 53 |
 | Yaml | 3,597 | 0 | 0 | 14 |
 | JavaScript | 1,562 | 57 | 115 | 9 |
@@ -32,48 +32,50 @@ x install ast-grep
 
 ## 发布
 
-- **最新版本**: `0.51.1` (2026-11-02)
-- **最近提交**: 2026-11-10
-- **Release 含资产**: 7 个
+- **最新版本**: `0.51.2` (2026-11-11)
+- **最近提交**: 2026-11-11
+- **Release 含资产**: 9 个
 
 ## 流行度
 
-- **Star**: 16,529 · **Fork**: 499 · **开放 issue**: 775 · **贡献者**: 104
+- **Star**: 16,542 · **Fork**: 500 · **开放 issue**: 775 · **贡献者**: 104
 
 ## 累计统计
 
-- **发布数**: 186 · **已合并 PR**: 1859 · **开放 PR**: 7 · **已关闭 issue**: 735 · **开放 issue**: 40 · **提交数**: 4466
+- **发布数**: 187 · **已合并 PR**: 1861 · **开放 PR**: 8 · **已关闭 issue**: 737 · **开放 issue**: 38 · **提交数**: 4469
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 2 | 66 | 5 | 9 | 2 | 76 |
-| last60d | 2026-09-11 | 3 | 100 | 6 | 23 | 4 | 114 |
-| 90d | 2026-08-12 | 5 | 126 | 6 | 30 | 4 | 153 |
-| last180d | 2026-05-14 | 11 | 274 | 7 | 67 | 8 | 372 |
-| 360d | 2025-11-15 | 22 | 476 | 7 | 114 | 13 | 672 |
-| last720d | 2024-11-20 | 59 | 973 | 7 | 260 | 20 | 1673 |
+| 30d | 2026-10-12 | 3 | 68 | 5 | 11 | 0 | 79 |
+| last60d | 2026-09-12 | 4 | 102 | 7 | 24 | 2 | 117 |
+| 90d | 2026-08-13 | 6 | 127 | 7 | 32 | 2 | 156 |
+| last180d | 2026-05-15 | 12 | 276 | 8 | 68 | 6 | 375 |
+| 360d | 2025-11-16 | 23 | 477 | 8 | 116 | 11 | 675 |
+| last720d | 2024-11-21 | 60 | 974 | 8 | 262 | 18 | 1676 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [app-aarch64-apple-darwin.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.1/app-aarch64-apple-darwin.zip) | 8.3 MiB | `native/darwin/arm64` |
-| [app-aarch64-pc-windows-msvc.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.1/app-aarch64-pc-windows-msvc.zip) | 14.9 MiB | `native/win/arm64` |
-| [app-aarch64-unknown-linux-gnu.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.1/app-aarch64-unknown-linux-gnu.zip) | 8.2 MiB | `native/linux/arm64/glibc` |
-| [app-i686-pc-windows-msvc.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.1/app-i686-pc-windows-msvc.zip) | 14.9 MiB | `native/win/x64` |
-| [app-x86_64-apple-darwin.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.1/app-x86_64-apple-darwin.zip) | 8.4 MiB | `native/darwin/x64` |
-| [app-x86_64-pc-windows-msvc.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.1/app-x86_64-pc-windows-msvc.zip) | 15.7 MiB | `native/win/x64` |
-| [app-x86_64-unknown-linux-gnu.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.1/app-x86_64-unknown-linux-gnu.zip) | 8.5 MiB | `native/linux/x64/glibc` |
+| [app-aarch64-apple-darwin.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.2/app-aarch64-apple-darwin.zip) | 8.3 MiB | `native/darwin/arm64` |
+| [app-aarch64-pc-windows-msvc.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.2/app-aarch64-pc-windows-msvc.zip) | 15.0 MiB | `native/win/arm64` |
+| [app-aarch64-unknown-linux-gnu.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.2/app-aarch64-unknown-linux-gnu.zip) | 8.2 MiB | `native/linux/arm64/glibc` |
+| [app-aarch64-unknown-linux-musl.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.2/app-aarch64-unknown-linux-musl.zip) | 8.3 MiB | `native/linux/arm64/musl` |
+| [app-i686-pc-windows-msvc.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.2/app-i686-pc-windows-msvc.zip) | 14.9 MiB | `native/win/x64` |
+| [app-x86_64-apple-darwin.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.2/app-x86_64-apple-darwin.zip) | 8.4 MiB | `native/darwin/x64` |
+| [app-x86_64-pc-windows-msvc.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.2/app-x86_64-pc-windows-msvc.zip) | 15.7 MiB | `native/win/x64` |
+| [app-x86_64-unknown-linux-gnu.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.2/app-x86_64-unknown-linux-gnu.zip) | 8.6 MiB | `native/linux/x64/glibc` |
+| [app-x86_64-unknown-linux-musl.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.2/app-x86_64-unknown-linux-musl.zip) | 8.6 MiB | `native/linux/x64/musl` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/ast-grep) 上共有 **55** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**47** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/ast-grep) 上共有 **55** 个发行版报告此项目。**8** 个 ✅ 已是最新上游版本，**45** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Arch | `0.44.1` | ⚠️ outdated |
+| Arch | `0.51.1` | ✅ latest |
 | Homebrew | `0.51.1` | ✅ latest |
 | Nix unstable | `0.51.0` | ⚠️ outdated |
 | Void | `0.44.1` | ⚠️ outdated |
@@ -89,4 +91,4 @@ ast-grep 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261110.yml` · 2026-11-10T08:50:34Z._
+_数据快照: `data/card/261111.yml` · 2026-11-11T07:43:15Z._
