@@ -33,27 +33,27 @@ Total: **81,641** lines of code across **250** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.51.2` (2026-11-11)
-- **Last commit**: 2026-11-12
+- **Last commit**: 2026-11-14
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 16,587 · **Forks**: 500 · **Open issues**: 775 · **Contributors**: 104
+- **Stars**: 16,573 · **Forks**: 501 · **Open issues**: 775 · **Contributors**: 105
 
 ## Totals (cumulative)
 
-- **Releases**: 187 · **Merged PRs**: 1863 · **Open PRs**: 8 · **Closed issues**: 737 · **Open issues**: 38 · **Commits**: 4472
+- **Releases**: 187 · **Merged PRs**: 1868 · **Open PRs**: 4 · **Closed issues**: 737 · **Open issues**: 38 · **Commits**: 4477
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 3 | 67 | 5 | 8 | 0 | 82 |
-| last60d | 2026-09-14 | 4 | 101 | 7 | 24 | 2 | 120 |
-| 90d | 2026-08-15 | 6 | 129 | 7 | 32 | 2 | 159 |
-| last180d | 2026-05-17 | 12 | 278 | 8 | 68 | 6 | 378 |
-| 360d | 2025-11-18 | 22 | 477 | 8 | 116 | 11 | 678 |
-| last720d | 2024-11-23 | 60 | 973 | 8 | 261 | 18 | 1677 |
+| 30d | 2026-10-15 | 3 | 70 | 2 | 8 | 0 | 87 |
+| last60d | 2026-09-15 | 4 | 106 | 3 | 24 | 2 | 125 |
+| 90d | 2026-08-16 | 6 | 134 | 3 | 31 | 2 | 164 |
+| last180d | 2026-05-18 | 12 | 282 | 4 | 67 | 6 | 383 |
+| 360d | 2025-11-19 | 22 | 481 | 4 | 116 | 11 | 683 |
+| last720d | 2024-11-24 | 60 | 975 | 4 | 261 | 18 | 1678 |
 
 ## Release assets
 
@@ -71,7 +71,7 @@ Total: **81,641** lines of code across **250** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **55** distros on [repology.org](https://repology.org/project/ast-grep). **5** are ✅ on the latest upstream release, **48** are ⚠️ on an older version.
+Reported by **66** distros on [repology.org](https://repology.org/project/ast-grep). **13** are ✅ on the latest upstream release, **51** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -91,4 +91,4 @@ Install metadata for ast-grep lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T08:13:00Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T08:02:57Z._
