@@ -14,14 +14,14 @@ x install ast-grep
 
 ## Code insight
 
-Total: **81,641** lines of code across **250** files in the top 5 languages.
+Total: **82,091** lines of code across **250** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 40,124 | 1,183 | 3,781 | 160 |
-| Json | 34,152 | 0 | 0 | 53 |
+| Rust | 40,483 | 1,188 | 3,798 | 160 |
+| Json | 34,190 | 0 | 0 | 53 |
 | Yaml | 3,597 | 0 | 0 | 14 |
-| JavaScript | 1,562 | 57 | 115 | 9 |
+| JavaScript | 1,613 | 60 | 120 | 9 |
 | TypeScript | 1,092 | 271 | 112 | 14 |
 
 ## Source
@@ -32,52 +32,52 @@ Total: **81,641** lines of code across **250** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `0.51.2` (2026-11-11)
-- **Last commit**: 2026-11-14
+- **Latest**: `0.51.3` (2026-11-16)
+- **Last commit**: 2026-11-16
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 16,583 · **Forks**: 502 · **Open issues**: 775 · **Contributors**: 105
+- **Stars**: 16,593 · **Forks**: 503 · **Open issues**: 775 · **Contributors**: 106
 
 ## Totals (cumulative)
 
-- **Releases**: 187 · **Merged PRs**: 1869 · **Open PRs**: 5 · **Closed issues**: 737 · **Open issues**: 38 · **Commits**: 4478
+- **Releases**: 188 · **Merged PRs**: 1873 · **Open PRs**: 2 · **Closed issues**: 738 · **Open issues**: 37 · **Commits**: 4484
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 2 | 71 | 3 | 8 | 0 | 88 |
-| last60d | 2026-09-16 | 4 | 106 | 4 | 23 | 2 | 126 |
-| 90d | 2026-08-17 | 6 | 135 | 4 | 31 | 2 | 165 |
-| last180d | 2026-05-19 | 12 | 279 | 4 | 66 | 6 | 384 |
-| 360d | 2025-11-20 | 22 | 481 | 5 | 116 | 11 | 684 |
-| last720d | 2024-11-25 | 60 | 974 | 5 | 260 | 18 | 1672 |
+| 30d | 2026-10-17 | 3 | 73 | 1 | 8 | 0 | 65 |
+| last60d | 2026-09-17 | 5 | 108 | 1 | 24 | 1 | 130 |
+| 90d | 2026-08-18 | 7 | 137 | 1 | 32 | 1 | 150 |
+| last180d | 2026-05-20 | 12 | 283 | 1 | 66 | 5 | 364 |
+| 360d | 2025-11-21 | 23 | 485 | 2 | 117 | 10 | 688 |
+| last720d | 2024-11-26 | 61 | 976 | 2 | 260 | 17 | 1675 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [app-aarch64-apple-darwin.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.2/app-aarch64-apple-darwin.zip) | 8.3 MiB | `native/darwin/arm64` |
-| [app-aarch64-pc-windows-msvc.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.2/app-aarch64-pc-windows-msvc.zip) | 15.0 MiB | `native/win/arm64` |
-| [app-aarch64-unknown-linux-gnu.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.2/app-aarch64-unknown-linux-gnu.zip) | 8.2 MiB | `native/linux/arm64/glibc` |
-| [app-aarch64-unknown-linux-musl.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.2/app-aarch64-unknown-linux-musl.zip) | 8.3 MiB | `native/linux/arm64/musl` |
-| [app-i686-pc-windows-msvc.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.2/app-i686-pc-windows-msvc.zip) | 14.9 MiB | `native/win/x64` |
-| [app-x86_64-apple-darwin.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.2/app-x86_64-apple-darwin.zip) | 8.4 MiB | `native/darwin/x64` |
-| [app-x86_64-pc-windows-msvc.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.2/app-x86_64-pc-windows-msvc.zip) | 15.7 MiB | `native/win/x64` |
-| [app-x86_64-unknown-linux-gnu.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.2/app-x86_64-unknown-linux-gnu.zip) | 8.6 MiB | `native/linux/x64/glibc` |
-| [app-x86_64-unknown-linux-musl.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.2/app-x86_64-unknown-linux-musl.zip) | 8.6 MiB | `native/linux/x64/musl` |
+| [app-aarch64-apple-darwin.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.3/app-aarch64-apple-darwin.zip) | 8.4 MiB | `native/darwin/arm64` |
+| [app-aarch64-pc-windows-msvc.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.3/app-aarch64-pc-windows-msvc.zip) | 15.1 MiB | `native/win/arm64` |
+| [app-aarch64-unknown-linux-gnu.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.3/app-aarch64-unknown-linux-gnu.zip) | 8.3 MiB | `native/linux/arm64/glibc` |
+| [app-aarch64-unknown-linux-musl.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.3/app-aarch64-unknown-linux-musl.zip) | 8.3 MiB | `native/linux/arm64/musl` |
+| [app-i686-pc-windows-msvc.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.3/app-i686-pc-windows-msvc.zip) | 15.0 MiB | `native/win/x64` |
+| [app-x86_64-apple-darwin.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.3/app-x86_64-apple-darwin.zip) | 8.5 MiB | `native/darwin/x64` |
+| [app-x86_64-pc-windows-msvc.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.3/app-x86_64-pc-windows-msvc.zip) | 15.8 MiB | `native/win/x64` |
+| [app-x86_64-unknown-linux-gnu.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.3/app-x86_64-unknown-linux-gnu.zip) | 8.7 MiB | `native/linux/x64/glibc` |
+| [app-x86_64-unknown-linux-musl.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.3/app-x86_64-unknown-linux-musl.zip) | 8.7 MiB | `native/linux/x64/musl` |
 
 ## Distribution status
 
-Reported by **66** distros on [repology.org](https://repology.org/project/ast-grep). **13** are ✅ on the latest upstream release, **51** are ⚠️ on an older version.
+Reported by **66** distros on [repology.org](https://repology.org/project/ast-grep). **5** are ✅ on the latest upstream release, **59** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `0.51.1` | ⚠️ outdated |
-| Homebrew | `0.51.2` | ✅ latest |
-| Nix unstable | `0.51.2` | ✅ latest |
+| Homebrew | `0.51.3` | ✅ latest |
+| Nix unstable | `0.51.2` | ⚠️ outdated |
 | Void | `0.44.1` | ⚠️ outdated |
 | Alpine edge | `0.28.1` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.51.0` | ⚠️ outdated |
@@ -91,4 +91,4 @@ Install metadata for ast-grep lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:56:48Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:21:36Z._
