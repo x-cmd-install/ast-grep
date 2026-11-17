@@ -38,22 +38,22 @@ Total: **82,091** lines of code across **250** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 16,593 · **Forks**: 503 · **Open issues**: 775 · **Contributors**: 106
+- **Stars**: 16,607 · **Forks**: 505 · **Open issues**: 775 · **Contributors**: 106
 
 ## Totals (cumulative)
 
-- **Releases**: 188 · **Merged PRs**: 1873 · **Open PRs**: 2 · **Closed issues**: 738 · **Open issues**: 37 · **Commits**: 4484
+- **Releases**: 188 · **Merged PRs**: 1874 · **Open PRs**: 6 · **Closed issues**: 738 · **Open issues**: 37 · **Commits**: 4485
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 3 | 73 | 1 | 8 | 0 | 65 |
-| last60d | 2026-09-17 | 5 | 108 | 1 | 24 | 1 | 130 |
-| 90d | 2026-08-18 | 7 | 137 | 1 | 32 | 1 | 150 |
-| last180d | 2026-05-20 | 12 | 283 | 1 | 66 | 5 | 364 |
-| 360d | 2025-11-21 | 23 | 485 | 2 | 117 | 10 | 688 |
-| last720d | 2024-11-26 | 61 | 976 | 2 | 260 | 17 | 1675 |
+| 30d | 2026-10-18 | 3 | 74 | 5 | 8 | 0 | 66 |
+| last60d | 2026-09-18 | 5 | 107 | 5 | 23 | 1 | 131 |
+| 90d | 2026-08-19 | 7 | 138 | 5 | 32 | 1 | 151 |
+| last180d | 2026-05-21 | 12 | 283 | 5 | 66 | 5 | 365 |
+| 360d | 2025-11-22 | 23 | 486 | 6 | 117 | 10 | 689 |
+| last720d | 2024-11-27 | 60 | 977 | 6 | 258 | 17 | 1666 |
 
 ## Release assets
 
@@ -69,19 +69,6 @@ Total: **82,091** lines of code across **250** files in the top 5 languages.
 | [app-x86_64-unknown-linux-gnu.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.3/app-x86_64-unknown-linux-gnu.zip) | 8.7 MiB | `native/linux/x64/glibc` |
 | [app-x86_64-unknown-linux-musl.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.3/app-x86_64-unknown-linux-musl.zip) | 8.7 MiB | `native/linux/x64/musl` |
 
-## Distribution status
-
-Reported by **66** distros on [repology.org](https://repology.org/project/ast-grep). **5** are ✅ on the latest upstream release, **59** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.51.1` | ⚠️ outdated |
-| Homebrew | `0.51.3` | ✅ latest |
-| Nix unstable | `0.51.2` | ⚠️ outdated |
-| Void | `0.44.1` | ⚠️ outdated |
-| Alpine edge | `0.28.1` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.51.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for ast-grep lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ast-grep` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -91,4 +78,4 @@ Install metadata for ast-grep lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:21:36Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T10:53:15Z._
