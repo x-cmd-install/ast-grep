@@ -33,27 +33,27 @@ x install ast-grep
 ## 发布
 
 - **最新版本**: `0.51.3` (2026-11-16)
-- **最近提交**: 2026-11-16
+- **最近提交**: 2026-11-19
 - **Release 含资产**: 9 个
 
 ## 流行度
 
-- **Star**: 16,607 · **Fork**: 505 · **开放 issue**: 775 · **贡献者**: 106
+- **Star**: 16,626 · **Fork**: 504 · **开放 issue**: 775 · **贡献者**: 106
 
 ## 累计统计
 
-- **发布数**: 188 · **已合并 PR**: 1874 · **开放 PR**: 6 · **已关闭 issue**: 738 · **开放 issue**: 37 · **提交数**: 4485
+- **发布数**: 188 · **已合并 PR**: 1877 · **开放 PR**: 8 · **已关闭 issue**: 738 · **开放 issue**: 37 · **提交数**: 4488
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 3 | 74 | 5 | 8 | 0 | 66 |
-| last60d | 2026-09-18 | 5 | 107 | 5 | 23 | 1 | 131 |
-| 90d | 2026-08-19 | 7 | 138 | 5 | 32 | 1 | 151 |
-| last180d | 2026-05-21 | 12 | 283 | 5 | 66 | 5 | 365 |
-| 360d | 2025-11-22 | 23 | 486 | 6 | 117 | 10 | 689 |
-| last720d | 2024-11-27 | 60 | 977 | 6 | 258 | 17 | 1666 |
+| 30d | 2026-10-20 | 3 | 65 | 7 | 8 | 0 | 69 |
+| last60d | 2026-09-20 | 5 | 105 | 7 | 18 | 1 | 134 |
+| 90d | 2026-08-21 | 7 | 140 | 7 | 32 | 1 | 154 |
+| last180d | 2026-05-23 | 12 | 285 | 7 | 66 | 5 | 368 |
+| 360d | 2025-11-24 | 23 | 488 | 8 | 117 | 10 | 692 |
+| last720d | 2024-11-29 | 60 | 977 | 8 | 256 | 17 | 1655 |
 
 ## Release 资产
 
@@ -69,6 +69,19 @@ x install ast-grep
 | [app-x86_64-unknown-linux-gnu.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.3/app-x86_64-unknown-linux-gnu.zip) | 8.7 MiB | `native/linux/x64/glibc` |
 | [app-x86_64-unknown-linux-musl.zip](https://github.com/ast-grep/ast-grep/releases/download/0.51.3/app-x86_64-unknown-linux-musl.zip) | 8.7 MiB | `native/linux/x64/musl` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/ast-grep) 上共有 **66** 个发行版报告此项目。**10** 个 ✅ 已是最新上游版本，**54** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `0.51.1` | ⚠️ outdated |
+| Homebrew | `0.51.3` | ✅ latest |
+| Nix unstable | `0.51.2` | ⚠️ outdated |
+| Void | `0.44.1` | ⚠️ outdated |
+| Alpine edge | `0.28.1` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.51.2` | ⚠️ outdated |
+
 ## 改进这些数据
 
 ast-grep 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `ast-grep` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -78,4 +91,4 @@ ast-grep 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T10:53:15Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T09:24:36Z._
