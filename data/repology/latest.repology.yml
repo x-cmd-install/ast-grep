@@ -1,3 +1,11 @@
+- repo: baulk
+  srcname: ast-grep
+  binname: ast-grep
+  visiblename: ast-grep
+  version: 0.51.3
+  origversion: null
+  status: newest
+  summary: A fast and polyglot tool for code searching, linting, rewriting at large scale.
 - repo: alpine_3_21
   subrepo: community
   srcname: ast-grep
@@ -330,9 +338,9 @@
   srcname: ast-grep-bin
   binname: ast-grep-bin
   visiblename: ast-grep-bin
-  version: 0.51.0
-  origversion: 0.51.0-1
-  status: outdated
+  version: 0.51.3
+  origversion: 0.51.3-1
+  status: newest
   summary: A fast and easy tool for code searching, linting, rewriting at large scale
   maintainers:
     - asukaminato@aur
@@ -340,14 +348,6 @@
     - barrow@aur
   licenses:
     - MIT
-- repo: baulk
-  srcname: ast-grep
-  binname: ast-grep
-  visiblename: ast-grep
-  version: 0.51.2
-  origversion: null
-  status: outdated
-  summary: A fast and polyglot tool for code searching, linting, rewriting at large scale.
 - repo: crates_io
   srcname: ast-grep
   visiblename: ast-grep
@@ -359,9 +359,9 @@
   srcname: textproc/ast-grep
   binname: ast-grep
   visiblename: textproc/ast-grep
-  version: 0.51.2
+  version: 0.51.3
   origversion: null
-  status: outdated
+  status: newest
   summary: CLI tool for code structural search, lint and rewriting
   maintainers:
     - tagattie@freebsd.org
@@ -393,9 +393,9 @@
   srcname: devel/ast-grep
   binname: ast-grep
   visiblename: ast-grep
-  version: 0.51.2
+  version: 0.51.3
   origversion: null
-  status: outdated
+  status: newest
   summary: A CLI tool for code structural search, lint and rewriting.
   maintainers:
     - herbygillot@github
@@ -428,10 +428,10 @@
 - repo: manjaro_testing
   subrepo: extra
   srcname: ast-grep
-  binname: ast-grep
-  visiblename: ast-grep
-  version: 0.44.1
-  origversion: 0.44.1-1
+  binname: python-ast-grep
+  visiblename: python-ast-grep
+  version: 0.51.1
+  origversion: 0.51.1-1
   status: outdated
   summary: CLI tool for code structural search, lint and rewriting
   licenses:
@@ -439,19 +439,8 @@
 - repo: manjaro_testing
   subrepo: extra
   srcname: ast-grep
-  binname: python-ast-grep
-  visiblename: python-ast-grep
-  version: 0.44.1
-  origversion: 0.44.1-1
-  status: outdated
-  summary: CLI tool for code structural search, lint and rewriting
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: ast-grep
-  binname: python-ast-grep
-  visiblename: python-ast-grep
+  binname: ast-grep
+  visiblename: ast-grep
   version: 0.51.1
   origversion: 0.51.1-1
   status: outdated
@@ -463,6 +452,17 @@
   srcname: ast-grep
   binname: ast-grep
   visiblename: ast-grep
+  version: 0.51.1
+  origversion: 0.51.1-1
+  status: outdated
+  summary: CLI tool for code structural search, lint and rewriting
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: ast-grep
+  binname: python-ast-grep
+  visiblename: python-ast-grep
   version: 0.51.1
   origversion: 0.51.1-1
   status: outdated
@@ -550,6 +550,19 @@
   licenses:
     - MIT
 - repo: nix_stable_26_05
+  srcname: python313Packages.ast-grep-py
+  visiblename: ast-grep-py
+  version: 0.42.1
+  origversion: null
+  status: outdated
+  summary: Fast and polyglot tool for code searching, linting, rewriting at large scale
+  maintainers:
+    - anthony@nezia.dev
+  licenses:
+    - MIT
+  categories:
+    - python313Packages
+- repo: nix_stable_26_05
   srcname: ast-grep
   visiblename: ast-grep
   version: 0.42.1
@@ -563,18 +576,6 @@
     - christina@cafkafk.com
   licenses:
     - MIT
-- repo: pkgsrc_2026_2
-  srcname: devel/ast-grep
-  binname: ast-grep
-  visiblename: devel/ast-grep
-  version: 0.43.0
-  origversion: null
-  status: outdated
-  summary: CLI tool for code structural search, lint, and rewriting
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - devel
 - repo: nix_stable_26_05
   srcname: python314Packages.ast-grep-py
   visiblename: ast-grep-py
@@ -588,48 +589,6 @@
     - MIT
   categories:
     - python314Packages
-- repo: nix_stable_26_05
-  srcname: python313Packages.ast-grep-py
-  visiblename: ast-grep-py
-  version: 0.42.1
-  origversion: null
-  status: outdated
-  summary: Fast and polyglot tool for code searching, linting, rewriting at large scale
-  maintainers:
-    - anthony@nezia.dev
-  licenses:
-    - MIT
-  categories:
-    - python313Packages
-- repo: nix_unstable
-  srcname: python313Packages.ast-grep-cli
-  visiblename: ast-grep-cli
-  version: 0.51.2
-  origversion: null
-  status: outdated
-  summary: Fast and polyglot tool for code searching, linting, rewriting at large scale
-  maintainers:
-    - xiaoxiangmoe@gmail.com
-    - chmont@protonmail.com
-    - lord-valen@github
-    - christina@cafkafk.com
-  licenses:
-    - MIT
-  categories:
-    - python313Packages
-- repo: nix_unstable
-  srcname: python313Packages.ast-grep-py
-  visiblename: ast-grep-py
-  version: 0.51.2
-  origversion: null
-  status: outdated
-  summary: Fast and polyglot tool for code searching, linting, rewriting at large scale
-  maintainers:
-    - anthony@nezia.dev
-  licenses:
-    - MIT
-  categories:
-    - python313Packages
 - repo: nix_unstable
   srcname: ast-grep
   visiblename: ast-grep
@@ -673,6 +632,35 @@
     - MIT
   categories:
     - python314Packages
+- repo: nix_unstable
+  srcname: python313Packages.ast-grep-cli
+  visiblename: ast-grep-cli
+  version: 0.51.2
+  origversion: null
+  status: outdated
+  summary: Fast and polyglot tool for code searching, linting, rewriting at large scale
+  maintainers:
+    - xiaoxiangmoe@gmail.com
+    - chmont@protonmail.com
+    - lord-valen@github
+    - christina@cafkafk.com
+  licenses:
+    - MIT
+  categories:
+    - python313Packages
+- repo: nix_unstable
+  srcname: python313Packages.ast-grep-py
+  visiblename: ast-grep-py
+  version: 0.51.2
+  origversion: null
+  status: outdated
+  summary: Fast and polyglot tool for code searching, linting, rewriting at large scale
+  maintainers:
+    - anthony@nezia.dev
+  licenses:
+    - MIT
+  categories:
+    - python313Packages
 - repo: opensuse_tumbleweed
   subrepo: src-oss
   srcname: ast-grep
@@ -681,8 +669,8 @@
     - ast-grep-debuginfo
     - ast-grep-debugsource
   visiblename: ast-grep
-  version: 0.51.0
-  origversion: 0.51.0-1.1
+  version: 0.51.2
+  origversion: 0.51.2-1.1
   status: outdated
   summary: A CLI tool for code structural search, lint and rewriting
   licenses:
@@ -711,6 +699,18 @@
   summary: CLI tool for code structural search, lint and rewriting
   licenses:
     - MIT
+- repo: pkgsrc_2026_2
+  srcname: devel/ast-grep
+  binname: ast-grep
+  visiblename: devel/ast-grep
+  version: 0.43.0
+  origversion: null
+  status: outdated
+  summary: CLI tool for code structural search, lint, and rewriting
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - devel
 - repo: pkgsrc_2026_3
   srcname: devel/ast-grep
   binname: ast-grep
@@ -727,9 +727,9 @@
   srcname: devel/ast-grep
   binname: ast-grep
   visiblename: devel/ast-grep
-  version: 0.51.1
+  version: 0.51.3
   origversion: null
-  status: outdated
+  status: newest
   summary: CLI tool for code structural search, lint, and rewriting
   maintainers:
     - pkgsrc-users@netbsd.org
