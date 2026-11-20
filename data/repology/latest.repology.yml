@@ -1,11 +1,3 @@
-- repo: baulk
-  srcname: ast-grep
-  binname: ast-grep
-  visiblename: ast-grep
-  version: 0.51.3
-  origversion: null
-  status: newest
-  summary: A fast and polyglot tool for code searching, linting, rewriting at large scale.
 - repo: alpine_3_21
   subrepo: community
   srcname: ast-grep
@@ -147,6 +139,17 @@
   summary: Fish completions for ast-grep
   maintainers:
     - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: ast-grep
+  binname: ast-grep
+  visiblename: ast-grep
+  version: 0.44.1
+  origversion: 0.44.1-1
+  status: outdated
+  summary: CLI tool for code structural search, lint and rewriting
   licenses:
     - MIT
 - repo: alpine_3_23
@@ -348,6 +351,14 @@
     - barrow@aur
   licenses:
     - MIT
+- repo: baulk
+  srcname: ast-grep
+  binname: ast-grep
+  visiblename: ast-grep
+  version: 0.51.3
+  origversion: null
+  status: newest
+  summary: A fast and polyglot tool for code searching, linting, rewriting at large scale.
 - repo: crates_io
   srcname: ast-grep
   visiblename: ast-grep
@@ -403,17 +414,6 @@
     - MIT
   categories:
     - devel
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: ast-grep
-  binname: ast-grep
-  visiblename: ast-grep
-  version: 0.44.1
-  origversion: 0.44.1-1
-  status: outdated
-  summary: CLI tool for code structural search, lint and rewriting
-  licenses:
-    - MIT
 - repo: manjaro_stable
   subrepo: extra
   srcname: ast-grep
@@ -510,18 +510,19 @@
   licenses:
     - MIT
 - repo: nix_stable_25_11
-  srcname: python312Packages.ast-grep-py
-  visiblename: python3.12-ast-grep-py
+  srcname: ast-grep
+  visiblename: ast-grep
   version: 0.40.0
   origversion: null
   status: outdated
   summary: Fast and polyglot tool for code searching, linting, rewriting at large scale
   maintainers:
-    - anthony@nezia.dev
+    - xiaoxiangmoe@gmail.com
+    - chmont@protonmail.com
+    - lord-valen@github
+    - christina@cafkafk.com
   licenses:
     - MIT
-  categories:
-    - python312Packages
 - repo: nix_stable_25_11
   srcname: python313Packages.ast-grep-py
   visiblename: python3.13-ast-grep-py
@@ -536,19 +537,18 @@
   categories:
     - python313Packages
 - repo: nix_stable_25_11
-  srcname: ast-grep
-  visiblename: ast-grep
+  srcname: python312Packages.ast-grep-py
+  visiblename: python3.12-ast-grep-py
   version: 0.40.0
   origversion: null
   status: outdated
   summary: Fast and polyglot tool for code searching, linting, rewriting at large scale
   maintainers:
-    - xiaoxiangmoe@gmail.com
-    - chmont@protonmail.com
-    - lord-valen@github
-    - christina@cafkafk.com
+    - anthony@nezia.dev
   licenses:
     - MIT
+  categories:
+    - python312Packages
 - repo: nix_stable_26_05
   srcname: python313Packages.ast-grep-py
   visiblename: ast-grep-py
@@ -563,20 +563,6 @@
   categories:
     - python313Packages
 - repo: nix_stable_26_05
-  srcname: ast-grep
-  visiblename: ast-grep
-  version: 0.42.1
-  origversion: null
-  status: outdated
-  summary: Fast and polyglot tool for code searching, linting, rewriting at large scale
-  maintainers:
-    - xiaoxiangmoe@gmail.com
-    - chmont@protonmail.com
-    - lord-valen@github
-    - christina@cafkafk.com
-  licenses:
-    - MIT
-- repo: nix_stable_26_05
   srcname: python314Packages.ast-grep-py
   visiblename: ast-grep-py
   version: 0.42.1
@@ -589,10 +575,10 @@
     - MIT
   categories:
     - python314Packages
-- repo: nix_unstable
+- repo: nix_stable_26_05
   srcname: ast-grep
   visiblename: ast-grep
-  version: 0.51.2
+  version: 0.42.1
   origversion: null
   status: outdated
   summary: Fast and polyglot tool for code searching, linting, rewriting at large scale
@@ -606,9 +592,9 @@
 - repo: nix_unstable
   srcname: python314Packages.ast-grep-cli
   visiblename: ast-grep-cli
-  version: 0.51.2
+  version: 0.51.3
   origversion: null
-  status: outdated
+  status: newest
   summary: Fast and polyglot tool for code searching, linting, rewriting at large scale
   maintainers:
     - xiaoxiangmoe@gmail.com
@@ -622,9 +608,9 @@
 - repo: nix_unstable
   srcname: python314Packages.ast-grep-py
   visiblename: ast-grep-py
-  version: 0.51.2
+  version: 0.51.3
   origversion: null
-  status: outdated
+  status: newest
   summary: Fast and polyglot tool for code searching, linting, rewriting at large scale
   maintainers:
     - anthony@nezia.dev
@@ -633,11 +619,25 @@
   categories:
     - python314Packages
 - repo: nix_unstable
+  srcname: ast-grep
+  visiblename: ast-grep
+  version: 0.51.3
+  origversion: null
+  status: newest
+  summary: Fast and polyglot tool for code searching, linting, rewriting at large scale
+  maintainers:
+    - xiaoxiangmoe@gmail.com
+    - chmont@protonmail.com
+    - lord-valen@github
+    - christina@cafkafk.com
+  licenses:
+    - MIT
+- repo: nix_unstable
   srcname: python313Packages.ast-grep-cli
   visiblename: ast-grep-cli
-  version: 0.51.2
+  version: 0.51.3
   origversion: null
-  status: outdated
+  status: newest
   summary: Fast and polyglot tool for code searching, linting, rewriting at large scale
   maintainers:
     - xiaoxiangmoe@gmail.com
@@ -651,9 +651,9 @@
 - repo: nix_unstable
   srcname: python313Packages.ast-grep-py
   visiblename: ast-grep-py
-  version: 0.51.2
+  version: 0.51.3
   origversion: null
-  status: outdated
+  status: newest
   summary: Fast and polyglot tool for code searching, linting, rewriting at large scale
   maintainers:
     - anthony@nezia.dev
@@ -742,17 +742,17 @@
   origversion: 0.51.0-2
   status: outdated
 - repo: pypi
-  srcname: ast-grep-cli
-  binname: ast-grep-cli
-  visiblename: ast-grep-cli
+  srcname: ast-grep-py
+  binname: ast-grep-py
+  visiblename: ast-grep-py
   version: 0.51.3
   origversion: null
   status: newest
   summary: Structural Search and Rewrite code at large scale using precise AST pattern.
 - repo: pypi
-  srcname: ast-grep-py
-  binname: ast-grep-py
-  visiblename: ast-grep-py
+  srcname: ast-grep-cli
+  binname: ast-grep-cli
+  visiblename: ast-grep-cli
   version: 0.51.3
   origversion: null
   status: newest
