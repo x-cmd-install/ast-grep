@@ -33,27 +33,27 @@ Total: **82,091** lines of code across **250** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.51.3` (2026-11-16)
-- **Last commit**: 2026-11-19
+- **Last commit**: 2026-11-24
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 16,665 · **Forks**: 506 · **Open issues**: 775 · **Contributors**: 106
+- **Stars**: 16,682 · **Forks**: 508 · **Open issues**: 776 · **Contributors**: 106
 
 ## Totals (cumulative)
 
-- **Releases**: 188 · **Merged PRs**: 1878 · **Open PRs**: 13 · **Closed issues**: 739 · **Open issues**: 36 · **Commits**: 4489
+- **Releases**: 188 · **Merged PRs**: 1880 · **Open PRs**: 13 · **Closed issues**: 739 · **Open issues**: 37 · **Commits**: 4491
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 3 | 54 | 12 | 8 | 0 | 51 |
-| last60d | 2026-09-24 | 5 | 100 | 12 | 16 | 1 | 126 |
-| 90d | 2026-08-25 | 6 | 136 | 12 | 30 | 1 | 147 |
-| last180d | 2026-05-27 | 11 | 281 | 12 | 66 | 4 | 362 |
-| 360d | 2025-11-28 | 23 | 488 | 13 | 118 | 8 | 686 |
-| last720d | 2024-12-03 | 59 | 969 | 13 | 253 | 16 | 1639 |
+| 30d | 2026-10-25 | 3 | 55 | 12 | 8 | 1 | 53 |
+| last60d | 2026-09-25 | 5 | 100 | 12 | 16 | 2 | 128 |
+| 90d | 2026-08-26 | 6 | 138 | 12 | 29 | 2 | 149 |
+| last180d | 2026-05-28 | 11 | 283 | 12 | 66 | 5 | 364 |
+| 360d | 2025-11-29 | 23 | 490 | 13 | 118 | 9 | 688 |
+| last720d | 2024-12-04 | 59 | 968 | 13 | 251 | 17 | 1641 |
 
 ## Release assets
 
@@ -71,7 +71,7 @@ Total: **82,091** lines of code across **250** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **66** distros on [repology.org](https://repology.org/project/ast-grep). **15** are ✅ on the latest upstream release, **49** are ⚠️ on an older version.
+Reported by **66** distros on [repology.org](https://repology.org/project/ast-grep). **16** are ✅ on the latest upstream release, **48** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -80,7 +80,7 @@ Reported by **66** distros on [repology.org](https://repology.org/project/ast-gr
 | Nix unstable | `0.51.3` | ✅ latest |
 | Void | `0.44.1` | ⚠️ outdated |
 | Alpine edge | `0.28.1` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.51.2` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.51.3` | ✅ latest |
 
 ## Improve this data
 
@@ -91,4 +91,4 @@ Install metadata for ast-grep lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T11:18:47Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:53:31Z._
