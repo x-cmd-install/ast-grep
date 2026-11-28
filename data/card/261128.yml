@@ -1,0 +1,144 @@
+about:
+  description: "⚡A CLI tool for code structural search, lint and rewriting. Written in Rust"
+  license: MIT
+  homepage: https://ast-grep.github.io/
+  head: 195648b
+  archived: false
+  latestVersion: "0.51.3"
+  latestRelease: "0.51.3"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T09:28:24Z
+timeline:
+  created: 2022-07-01
+  lastCommit: 2026-11-28
+  lastVersion: 2026-11-16
+  lastRelease: 2026-11-16
+  lastPrerelease: 
+popularity:
+  star: 16752
+  watcher: 41
+  fork: 517
+  release: 188
+  contributor: 107
+  pullRequest: 2187
+  issue: 777
+language:
+  Rust: 1334601
+  JavaScript: 32790
+  TypeScript: 27822
+  Python: 21643
+  Vue: 272
+totalBytes: 1417128
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 3
+    mergedPR: 62
+    openPR: 3
+    closedIssue: 10
+    openIssue: 0
+    commit: 73
+  last60d:
+    since: 2026-09-29
+    release: 5
+    mergedPR: 115
+    openPR: 3
+    closedIssue: 17
+    openIssue: 1
+    commit: 148
+  last90d:
+    since: 2026-08-30
+    release: 6
+    mergedPR: 151
+    openPR: 3
+    closedIssue: 29
+    openIssue: 1
+    commit: 169
+  last180d:
+    since: 2026-06-01
+    release: 11
+    mergedPR: 295
+    openPR: 3
+    closedIssue: 67
+    openIssue: 4
+    commit: 384
+  last360d:
+    since: 2025-12-03
+    release: 23
+    mergedPR: 501
+    openPR: 4
+    closedIssue: 119
+    openIssue: 8
+    commit: 708
+  last720d:
+    since: 2024-12-08
+    release: 59
+    mergedPR: 982
+    openPR: 4
+    closedIssue: 253
+    openIssue: 16
+    commit: 1650
+total:
+  release: 188
+  mergedPR: 1897
+  openPR: 4
+  closedIssue: 741
+  openIssue: 36
+  commit: 4511
+---
+path: /home/runner/.x-repo/github.com/ast-grep/ast-grep
+collectedAt: 2026-11-28T09:28:26Z
+loc:
+  Rust:
+    code: 40708
+    comments: 1196
+    blanks: 3808
+    files: 160
+  Json:
+    code: 34190
+    comments: 0
+    blanks: 0
+    files: 53
+  Yaml:
+    code: 3614
+    comments: 2
+    blanks: 0
+    files: 14
+  JavaScript:
+    code: 1613
+    comments: 60
+    blanks: 120
+    files: 9
+  TypeScript:
+    code: 1092
+    comments: 271
+    blanks: 112
+    files: 14
+  Python:
+    code: 630
+    comments: 16
+    blanks: 95
+    files: 8
+  Toml:
+    code: 480
+    comments: 9
+    blanks: 67
+    files: 17
+  Vue:
+    code: 6
+    comments: 0
+    blanks: 2
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2154
+    blanks: 751
+    files: 26
+total:
+  code: 82388
+  comments: 4873
+  blanks: 5053
+  files: 302
+---
+
+---
